@@ -1,1 +1,52 @@
-# fatimrobbins.budgettrackers.github.io
+# Budget Trackers
+
+<img src="projectscreenshot.png" alt="project image">
+
+> AS AN avid traveller 
+  I WANT to be able to track my withdrawals and deposits with or without a data/internet connection 
+  SO THAT my account balance is accurate when I am traveling
+
+---
+
+### Table of Contents
+
+- [Description](#description)
+- [Technologies](#technologies)
+- [How To Use](#how-to-use)
+- [License](#license)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+S 
+
+### Technologies
+
+- JavaScript
+- Node.js
+- Service workers
+- Mongoose
+- Express
+- Morgan
+- HTML
+- CSS
+
+## How to Use
+
+C
+
+### License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+[Back To The Top](#budget-tracker)
+
+---
+
+## Author Info
+
+Fatim Robbins
+fmsis@hotmail.com
+Github link - https://melodie15.github.io/fatimrobbins.budgettrackers.github.io/
