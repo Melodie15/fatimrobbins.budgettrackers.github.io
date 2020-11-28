@@ -4,7 +4,7 @@
 
 > AS AN avid traveller 
   I WANT to be able to track my withdrawals and deposits with or without a data/internet connection 
-  SO THAT my account balance is accurate when I am traveling
+  SO THAT my account balance is accurate when I am traveling.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Description
 
-S 
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ### Technologies
 
@@ -35,7 +35,7 @@ S
 
 ## How to Use
 
-C
+Npm install all your dependencies, type in node server.js to launch, the App is listening on http://localhost:3300/. Enter your transactions, the graph will update with each new transaction.
 
 ### License
 
