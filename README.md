@@ -1,4 +1,4 @@
-# Budget Trackers
+# Budget Tracker
 
 <img src="projectscreenshot.png" alt="project image">
 
